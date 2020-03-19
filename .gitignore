@@ -1,0 +1,7 @@
+bin/
+netcoreapp*/
+obj/
+target/
+.codacy-coverage/
+codacy-coverage.json
+
